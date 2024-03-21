@@ -4,7 +4,9 @@ layout: default
 
 # Talks
 
-{% for person in site.workshop.talks %}
+TBD
+
+<!--{% for person in site.workshop.talks %}
 <div class="speaker">
     <div class="cont">
         <img src="{{ person.pic }}"/>
@@ -16,4 +18,4 @@ layout: default
         </div>
     </div>
 </div>
-{% endfor %}
+{% endfor %}-->
