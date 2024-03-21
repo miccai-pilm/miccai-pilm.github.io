@@ -1,0 +1,111 @@
+title: FEDMED Workshop
+description: FEDMED Workshop at ICIAP 2023
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
+workshop:
+  name: Workshop on Federated Learning in Medical Imaging and Vision
+  short: FEDMED
+  host: "ICIAP 2023<br>Udine, Italy<br>September 11, 2023"
+  submission_link: https://cmt3.research.microsoft.com/ICIAPMIH2023
+  dates:
+    submission: July 15, 2023
+    decision: July 30, 2023
+    camera_ready: August 15, 2023
+    workshop: September 11, 2023 (TBD)
+  organizers:
+    - name: Simone
+      surname: Palazzo
+      affiliation: University of Catania
+      email: simone.palazzo@unict.it
+      pic: img/simone.jpg
+    - name: Federica
+      surname: Proietto Salanitri
+      affiliation: University of Catania
+      email: federica.proiettosalanitri@phd.unict.it
+      pic: img/federica.jpg
+    - name: Matteo
+      surname: Pennisi
+      affiliation: University of Catania
+      email: matteo.pennisi@unicampus.it
+      pic: img/matteo.jpg
+    - name: Chen
+      surname: Chen
+      affiliation: University of Central Florida
+      email: chen.chen@crcv.ucf.edu
+      pic: img/chen.jpg
+    - name: Bruno
+      surname: Casella
+      affiliation: University of Turin
+      email: bruno.casella@unito.it
+      pic: img/bruno.jpg
+    - name: Gianluca
+      surname: Mittone
+      affiliation: University of Turin
+      email: gianluca.mittone@unito.it
+      pic: img/gianluca.png
+  pc:
+    - name: Marco Aldinucci
+      affiliation: University of Turin
+    - name: Ulas Bagci
+      affiliation: Northwestern University
+    - name: Roberto Esposito
+      affiliation: University of Turin
+    - name: Ziran Min
+      affiliation: Siemens
+    - name: Adnan Mohammed
+      affiliation: University of Calgary
+    - name: Mirko Polato
+      affiliation: University of Turin
+    - name: Liangqiong Qu
+      affiliation: University of Hong Kong
+    - name: Concetto Spampinato
+      affiliation: University of Catania
+    - name: Peter van Ooijen
+      affiliation: University of Groningen
+  talks:
+    - name: Mirko Polato
+      affiliation: University of Turin
+      pic: img/mirko.jpg
+      title: TBD
+  program:
+    - time: a09:00
+      type: organizer
+      title: Introduction
+      author:
+    - time: a09:10
+      type: oral
+      title: Experience sharing and human-in-the-loop optimization for federated robot navigation recommendation
+      author: Morteza Moradi, Mohammad Moradi, Dario Calogero Guastella
+    - time: a09:30
+      type: oral
+      title: Federated Learning for Data and Model Heterogeneity in Medical Imaging
+      author: Hussain Ahmad Madni, Rao Muhammad Umer, Gian Luca Foresti
+    - time: a09:50
+      type: oral
+      title: FeDETR: a Federated Approach for Stenosis Detection in Coronary Angiography
+      author: Raffaele Mineo, Amelia Sorrenti, Federica Proietto Salanitri
+    - time: a10:10
+      type: oral
+      title: Benchmarking Federated Learning Frameworks for Medical Imaging Tasks
+      author: Samuele Fonio
+    - time: a10:30
+      type: break
+      title: Coffee break
+      author:
+    - time: a11:00
+      type: oral
+      title: FeDZIO: Decentralized Federated Knowledge Distillation on Edge Devices
+      author: Luca Palazzo, Matteo Pennisi, Giovanni Bellitto, Isaak Kavasidis
+    - time: a11:20
+      type: oral
+      title: A Federated Learning Framework for Stenosis Detection
+      author: Mariachiara Di Cosmo, Giovanna Migliorelli, Matteo Francioni, Andi Muçaj, Alessandro Maolo, Alessandro Aprile, Emanuele Frontoni, Maria Chiara Fiorentino, Sara Moccia
+    - time: a11:40
+      type: keynote
+      author: Mirko Polato
+      title: TBD
+    - time: a12:20
+      type: organizer
+      title: Closing remarks
+      author:

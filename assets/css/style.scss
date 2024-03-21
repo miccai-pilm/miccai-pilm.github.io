@@ -1,0 +1,94 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@media screen and (min-width: 64em)
+{
+.project-name {
+    font-size: 2.75rem;
+}
+}
+
+div.item {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 110px;
+}
+.headshot {
+    width: 85px;
+    height: 85px;
+    background-color: grey;
+    border-radius: 50%;
+}
+.name {
+    font-family: 'Roboto Slab', 'Roboto', 'Lato', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    display: block;
+    color:#966;
+}
+.affiliation {
+    font-family: 'Roboto Slab', 'Roboto', 'Lato', sans-serif;
+    display: block;
+    font-size:14px;
+    font-weight: 300;
+}
+
+div.speaker .cont {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    /*vertical-align: top;
+    text-align: center;
+    width: 110px;*/
+}
+
+div.speaker img {
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+    margin-right: 20px;
+    border-radius: 50%;
+}
+
+div.speakers .details .name {
+    font-family: 'Roboto Slab', 'Roboto', 'Lato', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    display: block;
+    color:#966;
+}
+div.speaker .details .affiliation {
+    font-family: 'Roboto Slab', 'Roboto', 'Lato', sans-serif;
+    display: block;
+    font-size:14px;
+    font-weight: 300;
+}
+
+.page-header {
+    background-image: url(/img/fedmed_bkg.png);
+    background-size: cover;
+    position: relative;
+}
+
+.page-header .overlay {
+   position: absolute;
+   top: 0;
+   left: 0;
+   height: 100%;
+   width: 100%;
+   background-color: rgba(0, 0, 0, 0.3);
+   z-index: 1;
+}
+
+.page-header a, .page-header h1, .page-header h2 {
+   color: white;
+   position: relative;
+   z-index : 3;
+}
+
+.project-tagline {
+   opacity: 1;
+}
