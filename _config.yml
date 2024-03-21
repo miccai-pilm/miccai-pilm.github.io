@@ -1,68 +1,66 @@
-title: FEDMED Workshop
-description: FEDMED Workshop at ICIAP 2023
+title: PILM Workshop
+description: PILM Workshop at MICCAI 2024
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 workshop:
-  name: Workshop on Federated Learning in Medical Imaging and Vision
-  short: FEDMED
-  host: "ICIAP 2023<br>Udine, Italy<br>September 11, 2023"
-  submission_link: https://cmt3.research.microsoft.com/ICIAPMIH2023
+  name: Workshop on Personalized Incremental Learning in Medicine
+  short: PILM
+  host: "MICCAI 2024<br>Marrakesh, Morocco<br>October 6-10, 2024 (TBD)"
+  submission_link: https://cmt3.research.microsoft.com/PILM2024
   dates:
-    submission: July 15, 2023
-    decision: July 30, 2023
-    camera_ready: August 15, 2023
-    workshop: September 11, 2023 (TBD)
+    submission: July 5, 2024
+    decision: July 31, 2024
+    camera_ready: August 10, 2024
+    workshop: October 6-10, 2024 (TBD)
   organizers:
     - name: Simone
       surname: Palazzo
       affiliation: University of Catania
       email: simone.palazzo@unict.it
       pic: img/simone.jpg
-    - name: Federica
-      surname: Proietto Salanitri
+    - name: Giovanni
+      surname: Bellitto
       affiliation: University of Catania
-      email: federica.proiettosalanitri@phd.unict.it
-      pic: img/federica.jpg
-    - name: Matteo
-      surname: Pennisi
-      affiliation: University of Catania
-      email: matteo.pennisi@unicampus.it
-      pic: img/matteo.jpg
-    - name: Chen
-      surname: Chen
-      affiliation: University of Central Florida
-      email: chen.chen@crcv.ucf.edu
-      pic: img/chen.jpg
-    - name: Bruno
-      surname: Casella
-      affiliation: University of Turin
-      email: bruno.casella@unito.it
-      pic: img/bruno.jpg
-    - name: Gianluca
-      surname: Mittone
-      affiliation: University of Turin
-      email: gianluca.mittone@unito.it
-      pic: img/gianluca.png
+      email: giovanni.bellitto@unict.it
+      pic: img/giovanni.jpg
+    - name: Nancy
+      surname: Zlatintsi
+      affiliation: National Technical University of Athens
+      email: nzlat@cs.ntua.gr
+      pic: img/nancy.jpg
+    - name: Panagiotis
+      surname: Filntisis
+      affiliation: National Technical University of Athens
+      email: filby@central.ntua.gr
+      pic: img/panagiotis.jpg
+    - name: Cecilia S.
+      surname: Lee
+      affiliation: University of Washington
+      email: leecs2@uw.edu
+      pic: img/cecilia.jpg
+    - name: Aaron Y.
+      surname: Lee
+      affiliation: University of Washington
+      email: leeay@uw.edu
+      pic: img/aaron.jpg
   pc:
-    - name: Marco Aldinucci
-      affiliation: University of Turin
-    - name: Ulas Bagci
-      affiliation: Northwestern University
-    - name: Roberto Esposito
-      affiliation: University of Turin
-    - name: Ziran Min
-      affiliation: Siemens
-    - name: Adnan Mohammed
-      affiliation: University of Calgary
-    - name: Mirko Polato
-      affiliation: University of Turin
-    - name: Liangqiong Qu
-      affiliation: University of Hong Kong
-    - name: Concetto Spampinato
-      affiliation: University of Catania
-    - name: Peter van Ooijen
-      affiliation: University of Groningen
+    - name: Roussos Anastasios
+      affiliation: ICS-FORTH
+    - name: Katsamanis Athanasios
+      affiliation: ILSP-ATHENA
+    - name: Pitsikalis Vassilis
+      affiliation: DeepLab
+    - name: Chaspari Theodora
+      affiliation: University of Colorado Boulder
+    - name: Efthymiou Niki
+      affiliation: National Technical University of Athens
+    - name: Retsinas George
+      affiliation: National Technical University of Athens
+    - name: Dalakleidi Kalliopi
+      affiliation: National Technical University of Athens
+    - name: Kardaris Nikos
+      affiliation: National Technical University of Athens
   talks:
     - name: Mirko Polato
       affiliation: University of Turin
