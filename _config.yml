@@ -45,28 +45,6 @@ workshop:
       email: leeay@uw.edu
       pic: img/aaron.jpg
   pc:
-    - name: Roussos Anastasios
-      affiliation: ICS-FORTH
-    - name: Katsamanis Athanasios
-      affiliation: ILSP-ATHENA
-    - name: Pitsikalis Vassilis
-      affiliation: DeepLab
-    - name: Chaspari Theodora
-      affiliation: University of Colorado Boulder
-    - name: Efthymiou Niki
-      affiliation: National Technical University of Athens
-    - name: Retsinas George
-      affiliation: National Technical University of Athens
-    - name: Dalakleidi Kalliopi
-      affiliation: National Technical University of Athens
-    - name: Kardaris Nikos
-      affiliation: National Technical University of Athens
-    - name: Pennisi Matteo
-      affiliation: Università Campus Bio-Medico of Rome
-    - name: Mineo Raffaele
-      affiliation: Università Campus Bio-Medico of Rome
-    - name: Spampinato Concetto 
-      affiliation: University of Catania
   talks:
     - name: Mirko Polato
       affiliation: University of Turin
