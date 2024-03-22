@@ -6,23 +6,18 @@ layout: default
 
 ## Scope of the workshop
 
-The paradigms of continual and incremental learning in machine learning has garnered significant
-attention as a means to develop models that can adapt to new information over time without forgetting
-previously learned knowledge. 
-Despite these advances, a gap remains between the theoretical frameworks of incremental learning and
-their practical applications. One possible domain which could act as an ideal benchmark for incremental
-learning methods in real-world scenarios is personalized medicine.
-Typical approaches assume the availability of a joint dataset of multiple patients for training
-a global model, from which patient-specific variants can be built. In practice, difficulties associated to
-data collection and governance arise when
-compiling comprehensive datasets needed for training robust machine learning models. Moreover, working
-on historical data is complicated by the fact that this data often exhibits a domain shift in the data distribution,
-resulting from
+Machine learning models for personalized medicine aim at tailoring diagnostic and therapeutic strategies to individual patient characteristics,
+which often means that these models have to be trained on data that is not only high-dimensional but also sparse and heterogeneous.
+Typical approaches assume the availability of a joint dataset of multiple patients for training a global model, from which patient-specific variants can be built.
+In practice, difficulties associated to data collection and governance arise when compiling comprehensive datasets needed for training robust machine learning models.
+Moreover, working on historical data is complicated by the fact that this data often exhibits a domain shift in the data distribution, resulting from
 the use of different machinery and diagnostic techniques over time.
 
-The ideal scenario would be one where machine learning models in healthcare could be trained incrementally
-on data from few or even a single patient at a time. Such an approach would not only respect the privacy
-and data ownership of individuals but would also allow for the continual updating of models for previous
+At the same time, the paradigms of incremental and continual learning in machine learning have garnered significant
+attention as a means to develop models that can adapt to new information over time without forgetting previously learned knowledge. 
+This capability would perfectly suit the requirements of personalized medicine, assuming a scenario where machine learning models
+for healthcare could be trained incrementally on data from few or even a single patient at a time.
+Such an approach would not only respect the privacy and data ownership of individuals but would also allow for the continual updating of models for previous
 patients as new data becomes available.
 
 The workshop on Personalized Incremental Learning in Medicine (PILM) aims to bridge the gap between
@@ -33,8 +28,6 @@ incremental learning research and its application to personalized medicine. The 
 - To explore strategies for overcoming domain shifts within intra-patient data and ensuring robustness across diverse medical equipment.
 - To promote the sharing of insights and techniques that can address the issues of data privacy and the inaccessibility of old patient data in the context of continual learning.
 - To stimulate collaboration between researchers in machine learning, medical imaging, and clinical practice to develop practical, scalable, and patient-centric solutions.
-
-
 
 ## Topics
 
