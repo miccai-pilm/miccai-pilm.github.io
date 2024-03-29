@@ -9,10 +9,10 @@ workshop:
   host: "MICCAI 2024<br>Marrakesh, Morocco<br>October 6-10, 2024 (TBD)"
   submission_link: https://cmt3.research.microsoft.com/PILM2024
   dates:
-    submission: July 5, 2024
-    decision: July 31, 2024
-    camera_ready: August 10, 2024
-    workshop: October 6-10, 2024 (TBD)
+    submission: June 24, 2024
+    decision: July 15, 2024
+    camera_ready: July 30, 2024
+    workshop: October 10, 2024
   organizers:
     - name: Simone
       surname: Palazzo
