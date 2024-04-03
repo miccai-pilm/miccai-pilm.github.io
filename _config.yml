@@ -33,17 +33,17 @@ workshop:
       surname: Filntisis
       affiliation: National Technical University of Athens
       email: filby@central.ntua.gr
-      pic: img/panagiotis.jpg
+      pic: img/pf.png
     - name: Cecilia S.
       surname: Lee
       affiliation: University of Washington
       email: leecs2@uw.edu
-      pic: img/cecilia.jpg
+      pic: img/cl.png
     - name: Aaron Y.
       surname: Lee
       affiliation: University of Washington
       email: leeay@uw.edu
-      pic: img/aaron.jpg
+      pic: img/al.png
   pc:
   talks:
     - name: Mirko Polato
