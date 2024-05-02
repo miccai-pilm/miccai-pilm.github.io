@@ -6,7 +6,7 @@ theme: jekyll-theme-cayman
 workshop:
   name: Workshop on Personalized Incremental Learning in Medicine
   short: PILM
-  host: "MICCAI 2024<br>Marrakesh, Morocco<br>October 6-10, 2024 (TBD)"
+  host: "MICCAI 2024<br>Marrakesh, Morocco<br>October 10, 2024"
   submission_link: https://cmt3.research.microsoft.com/PILM2024
   dates:
     submission: June 24, 2024
