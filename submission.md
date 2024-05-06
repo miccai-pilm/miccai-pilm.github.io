@@ -12,7 +12,7 @@ Papers must be submitted through [CMT]({{ site.workshop.submission_link }}).
 
 All submissions must comply with the following criteria:
 
-- **Page Limit**: Submissions must not exceed 8 pages, including figures, tables, and text. An additional 2 pages are allowed for references only.
+- **Page Limit**: Submissions must be between 12 and 15 pages long, including figures, tables, and references.
 - **Formatting Style**: The manuscript should be formatted according to the Lecture Notes in Computer Science (LNCS) style. Style files and detailed instructions can be found on the [Springer website](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
 - **File Type**: A single PDF file will be accepted at submission time.
 
