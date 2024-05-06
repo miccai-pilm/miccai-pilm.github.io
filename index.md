@@ -47,5 +47,5 @@ Expected submissions should cover, but are not limited to, the following topics:
 ## Workshop Proceedings
 
 Workshop proceedings will be published in the Lecture Notes in Computer Science (LNCS) series by Springer.
-<img src='img/LNCS-Logo.png' height='200'>
+<img src='img/LNCS-Logo.png' height='100'>
 
