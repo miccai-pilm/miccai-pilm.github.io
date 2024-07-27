@@ -45,6 +45,26 @@ workshop:
       email: leeay@uw.edu
       pic: img/al.png
   pc:
+    - name: Barragán Montero Ana M.
+      affiliation: Université catholique de Louvain
+    - name: Chaspari Theodora
+      affiliation: University of Colorado Boulder
+    - name: Dalakleidi Kalliopi
+      affiliation: National Technical University of Athens
+    - name: Gomez Marcella
+      affiliation: University of California Santa Cruz
+    - name: Gonzalez Camila
+      affiliation: Stanford University
+    - name: Jafari Mohammad
+      affiliation: Columbus State University
+    - name: Masana Marc
+      affiliation: Graz University of Technology
+    - name: Mineo Raffaele
+      affiliation: Università Campus Bio-Medico of Rome
+    - name: Pennisi Matteo
+      affiliation: Università Campus Bio-Medico of Rome
+    - name: Spampinato Concetto 
+      affiliation: University of Catania
   talks:
     - name: Mirko Polato
       affiliation: University of Turin
