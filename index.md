@@ -44,7 +44,9 @@ Expected submissions should cover, but are not limited to, the following topics:
 - Discussions on the limitations of current datasets and proposals for new data collection efforts that support incremental learning research in medicine.
 - Interdisciplinary research that combines insights from clinical practice, medical imaging, and machine learning to advance personalized medicine.
 
-<!--## Workshop Proceedings
+## Workshop Proceedings
 
-Workshop proceedings will be published in high-quality venues, indexed by both Scopus and Web of Science.
-Final details are being confirmed; further information will be provided as soon as it is available.-->
+Workshop proceedings will be published in the Lecture Notes in Computer Science (LNCS) series by Springer.
+
+<img src='img/LNCS-Logo.png' height='100'>
+
