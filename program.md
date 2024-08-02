@@ -4,7 +4,7 @@ layout: default
 
 # Workshop program
 
-This page will be updated after notification of acceptance.
+TBD
 
 <!--{% for entry in site.workshop.program %}
 {% if entry.type == "organizer" %}
