@@ -66,10 +66,10 @@ workshop:
     - name: Spampinato Concetto 
       affiliation: University of Catania
   talks:
-    - name: Mirko Polato
-      affiliation: University of Turin
-      pic: img/mirko.jpg
-      title: "Federated Learning in Healthcare: Challenges and Research Directions"
+    - name: Camila González
+      affiliation: Stanford University
+      pic: img/camila.jpg
+      title: "Evolving Healthcare: Dynamic Learning as the Key to Advancing Precision Medicine"
       file_text: "PDF"
       file_url: "keynote-fedmed.pdf"
   program:
